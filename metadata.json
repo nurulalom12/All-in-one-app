@@ -1,0 +1,8 @@
+{
+  "name": "Daily Smart Assistant",
+  "description": "A modern, minimalist, and smooth multipurpose daily utility application for productivity, finance, and system tools.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
